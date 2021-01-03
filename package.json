@@ -1,0 +1,30 @@
+{
+  "name": "linus-rage",
+  "version": "1.0.0",
+  "description": "linus is angery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3-Hz/linus-rage.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "3-Hz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3-Hz/linus-rage/issues"
+  },
+  "homepage": "https://github.com/3-Hz/linus-rage#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
