@@ -97,6 +97,7 @@ a {
 .button:active {
   color: #f30000;
   border-color: #f30000;
+  cursor: pointer;
 }
 
 #zero {
